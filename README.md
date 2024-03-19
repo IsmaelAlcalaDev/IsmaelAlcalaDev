@@ -28,7 +28,6 @@ Recién graduado y con una sólida experiencia laboral, he redirigido mi carrera
 ### Lenguajes
 - ☕ Java
 - 💻 PHP
-- 🚀 Laravel
 - 🌐 Javascript
 - ⚛ React
 
@@ -43,7 +42,6 @@ Recién graduado y con una sólida experiencia laboral, he redirigido mi carrera
 - 📊 SQL
 - 🐘 MySQL
 - 🍃 MongoDB
-- 🏛 OracleDB
 - 🚫 NoSQL
 
 ### Herramientas
