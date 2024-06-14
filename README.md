@@ -25,37 +25,6 @@ console.log(`¡Hola! Soy ${developer.name}, un ${developer.title} apasionado de 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelalcaladev/)](https://www.linkedin.com/in/ismaelalcaladev/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&link=https://github.com/IsmaelAlcalaDev)](https://github.com/IsmaelAlcalaDev)
 
-## 🚀 Proyectos Destacados
-
-```javascript
-const projects = [
-    {
-        name: "Conexión Turistas-Guías Locales",
-        description: "Plataforma que conecta turistas con guías locales.",
-        link: "https://github.com/IsmaelAlcalaDev/proyecto-1"
-    },
-    {
-        name: "Gestión de Biblioteca",
-        description: "Aplicación que permite la gestión de una biblioteca.",
-        link: "https://github.com/IsmaelAlcalaDev/proyecto-2"
-    },
-    {
-        name: "Buscador de GIFs",
-        description: "Buscador de GIFs utilizando la API de GIPHY.",
-        link: "https://github.com/IsmaelAlcalaDev/proyecto-3"
-    },
-    {
-        name: "Aplicación de Mini-Proyectos",
-        description: "Aplicación de mini-proyectos para practicar diversas tecnologías.",
-        link: "https://github.com/IsmaelAlcalaDev/proyecto-4"
-    }
-];
-
-projects.forEach(project => {
-    console.log(`Proyecto: ${project.name} - ${project.description} - ${project.link}`);
-});
-```
-
 ## 👨‍💻 Sobre Mí
 
 ```javascript
