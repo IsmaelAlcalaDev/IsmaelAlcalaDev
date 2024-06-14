@@ -18,30 +18,7 @@ console.log(`¡Hola! Soy ${developer.name}, un ${developer.title} apasionado de 
 
 ## 🛠 Skills
 
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
-- ![Java](https://img.shields.io/badge/-Java-orange)
-- ![PHP](https://img.shields.io/badge/-PHP-blue)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- ![Angular](https://img.shields.io/badge/-Angular-red)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-- ![HTML5](https://img.shields.io/badge/-HTML5-orange)
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- ![Sass](https://img.shields.io/badge/-Sass-pink)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
-- ![Tailwind](https://img.shields.io/badge/-Tailwind-blue)
-- ![SQL](https://img.shields.io/badge/-SQL-blue)
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- ![OracleDB](https://img.shields.io/badge/-OracleDB-red)
-- ![MV Azure](https://img.shields.io/badge/-MV%20Azure-blue)
-- ![Git](https://img.shields.io/badge/-Git-red)
-- ![Docker](https://img.shields.io/badge/-Docker-blue)
-- ![Liquid](https://img.shields.io/badge/-Liquid-blue)
-- ![Shopify](https://img.shields.io/badge/-Shopify-green)
-- ![WordPress](https://img.shields.io/badge/-WordPress-blue)
-- ![SEO](https://img.shields.io/badge/-SEO-green)
-- ![Marketing](https://img.shields.io/badge/-Marketing-red)
-- ![Agile](https://img.shields.io/badge/-Agile-yellow)
-- ![Scrum](https://img.shields.io/badge/-Scrum-blue)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green) ![Java](https://img.shields.io/badge/-Java-orange) ![PHP](https://img.shields.io/badge/-PHP-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Angular](https://img.shields.io/badge/-Angular-red) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![Sass](https://img.shields.io/badge/-Sass-pink) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple) ![Tailwind](https://img.shields.io/badge/-Tailwind-blue) ![SQL](https://img.shields.io/badge/-SQL-blue) ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![OracleDB](https://img.shields.io/badge/-OracleDB-red) ![MV Azure](https://img.shields.io/badge/-MV%20Azure-blue) ![Git](https://img.shields.io/badge/-Git-red) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Liquid](https://img.shields.io/badge/-Liquid-blue) ![Shopify](https://img.shields.io/badge/-Shopify-green) ![WordPress](https://img.shields.io/badge/-WordPress-blue) ![SEO](https://img.shields.io/badge/-SEO-green) ![Marketing](https://img.shields.io/badge/-Marketing-red) ![Agile](https://img.shields.io/badge/-Agile-yellow) ![Scrum](https://img.shields.io/badge/-Scrum-blue)
 
 ## 🌍 Encuéntrame en:
 
