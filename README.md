@@ -45,11 +45,6 @@ console.log(aboutMe());
 
 ¡Gracias por visitar mi perfil de GitHub! Si quieres colaborar o simplemente charlar sobre tecnología, no dudes en contactarme.
 
-```javascript
-developer.contact.email && console.log(`Puedes enviarme un correo a: ${developer.email}`);
-developer.contact.linkedIn && console.log(`Conéctate conmigo en LinkedIn: ${developer.linkedIn}`);
-developer.contact.github && console.log(`Mira mis repositorios en GitHub: ${developer.github}`);
-```
 
 
 
